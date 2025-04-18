@@ -1,0 +1,49 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacked By ./Nonsec7</title>
+    <link rel="icon" href="https://thumbs2.imgbox.com/e9/76/rg2I8b3D_t.png" type="image/x-icon">
+    <meta name="description" content="Hacked By ./Xen0Morp">
+    <meta name="keywords" content="Hacked By ./Xen0Morp">
+    <meta name="rating" content="General">
+    <meta name="revisit-after" content="1 days">
+    <meta name="classification" content="Hacked By ./Xen0Morph
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen" rel="stylesheet">
+</head>
+<body>
+<style>
+html {
+    background-color: black;
+    color: #000;
+}
+h2 {
+    font-family:"Bold 700 Italic",Mali;
+    color:red;
+}
+h3, h4 {
+    font-family:"Oxygen",serif;
+    color:white;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+::selection {
+    color:white;
+    background:#000;
+}
+</style>
+<table width="100%" height="100%">
+    <td align="center">
+        <img alt="#FuckKominfo" src="https://thumbs2.imgbox.com/e9/76/rg2I8b3D_t.png" width="250px">
+        <h2>Hacked By ./Xen0Morp </h2>
+        <h4> H4x0r Umbarella Corp Was Here <br><br> message
+         <br>  //---------------------------H4x0r Umbarella Corp---------------------------//<br>
+        We are not just a group of individuals, but a movement. We are the shadows behind the code, the thinkers behind the system, and the protectors against digital tyranny. We exist to prove that information is power, and true power belongs to those who can master it.
+ harm the innocent.
+        <audio src="https://i.top4top.io/m_2243ubcw60.mp3" autoplay="true" id="lagu"></audio>
+        <h4> <a href="https://t.me/H4x0rUmbarellaCorp" >- <font color="red"<h4>Greetz</font>-<br>./XEN0MORPH - 0X ANGEL - SUKAMANGGA01<br></h4>
+        <h3>- <font color="red">Official team</font> -<br>OCTO DARK CYBER SQUAD - H4X0R UMBARELLA CORP - KETAPANG GREY HAT TEAM - DEFACER KAMPUNG - TPNET CYBER - JAKARTA CYBER WHITE - RABBIT CYBER TEAM - KEDIRISEC TEAM</h3>
+</body>
+</html>
